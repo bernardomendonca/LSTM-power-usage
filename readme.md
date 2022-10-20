@@ -1,4 +1,4 @@
-#  Long Short-Term Memory Model to forecast pollution levels
+#  Long Short-Term Memory Model to forecast power usage
 
 This problem is framed as such:
 "Given recent power consumption, what is the expected power consumption for the week ahead?"

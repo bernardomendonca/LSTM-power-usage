@@ -132,7 +132,7 @@ the validation data used is the test_X and test_y arrays.
 
 The following plot showcases the RMSE of each day of the forecast week:
 
-![RMSE per day](./rmse-per-day.png'.png)
+![RMSE per day](./rmse-per-day.png.png)
 
 ## Libraries Used
 
